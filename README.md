@@ -12,3 +12,7 @@ Um Quiz interativo desenvolvido com HTML, CSS e JavaScript. O Quiz contém 5 per
 - Contagem de pontos para acompanhar o progresso
 - Botão de reinício para reiniciar o Quiz
 - Design amigável e responsivo
+
+## Link Hospedado
+
+Você pode acessar o Quiz Interativo hospedado no GitHub Pages [aqui](https://eusoujao.github.io/Quiz-App/).
